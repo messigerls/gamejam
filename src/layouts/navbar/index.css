@@ -1,0 +1,19 @@
+.navbar {
+  height: 40px;
+  background-color: #1E293E;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 20px 20px;
+}
+
+a.navbar-link {
+  color: inherit;
+  text-decoration: inherit; /* no underline */
+  margin: 0 10px;
+}
+
+.logo {
+  font-size: 30px;;
+}

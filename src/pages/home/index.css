@@ -1,0 +1,13 @@
+.homepage{
+  
+}
+
+.search-input-container {
+  margin: 40px 50px 0px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.feature-list-container {
+  margin: 0 50px;
+}

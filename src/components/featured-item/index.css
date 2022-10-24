@@ -1,0 +1,11 @@
+.feature-item{
+  color: white;
+  background-color: #212C43;
+  border-radius: 30px;
+  overflow: hidden;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,8 @@
+.search-input {
+  background-color: #1E293E;
+  border-radius: 10px;
+  width: 200px;
+  height: 20px;
+  color: white;
+  outline: none;
+}
